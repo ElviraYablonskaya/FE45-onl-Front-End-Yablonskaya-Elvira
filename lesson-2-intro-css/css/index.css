@@ -1,0 +1,65 @@
+@import url("./header.css");
+@import url("./main.css");
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+.container {
+  max-width: 1170px;
+  margin: auto;
+  padding: 0 15px;
+
+  /* background-color: wheat; */
+}
+/* #block {
+  color: rgb(187, 7, 7);
+}
+.block {
+  color: purple;
+}
+
+div {
+  color: coral;
+  color: palevioletred !important;
+} */
+/* a[href="#"] {
+  text-decoration: none;
+} */
+input[type="text"] {
+  color: coral;
+}
+/* .container * {
+  font-size: 36px;
+} */
+
+.box {
+  /* width: 1000px; */
+  /* max-width: 600px; */
+  /* min-width: 600px; */
+  /* height: 50px; */
+  /* background-color: rgb(227, 227, 4); */
+  /* margin-top: 50px;
+  margin-left: 100px;
+  margin-bottom: 20px;
+  margin-right: 40px; */
+  /* margin: 50px 40px 20px 100px;
+  margin: 50px 40px; */
+  /* margin-left: auto;
+  margin-right: auto; */
+  /* margin: 50px auto 30px; */
+}
+.inner-box {
+  width: 50%;
+  height: 50%;
+  background-color: coral;
+}
+.title {
+  text-align: center;
+  width: 680px;
+  margin: auto;
+
+  background-color: rgb(227, 227, 4);
+}
